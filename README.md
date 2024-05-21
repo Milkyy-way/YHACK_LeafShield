@@ -1,6 +1,6 @@
 # YHACK_LeafShield
 
-For complete detail please visit Devpost: https://devpost.com/software/leaf-shield
+For complete detail and video demo please visit Devpost: https://devpost.com/software/leaf-shield
 
 Sustain the Leaf, Empower the Farmer: Cultivating Sustainable Futures
 
