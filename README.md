@@ -1,4 +1,6 @@
 # YHACK_LeafShield
+
+For complete detail please visit Devpost: https://devpost.com/software/leaf-shield
 Sustain the Leaf, Empower the Farmer: Cultivating Sustainable Futures
 
 LeafShield is dedicated to gardeners and farmers who are busy with their work and have limited scientific knowledge about crop disease. They are, meanwhile, really in need of a quick solution to detect their crop’s state just by a SCAN and DETECT with a very high confidence level. 
